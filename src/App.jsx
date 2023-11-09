@@ -1,4 +1,3 @@
-import logo from "./assets/react.svg";
 import TaskList from "./components/TaskList";
 import TaskForm from "./components/TaskForm";
 import { useState, useEffect } from "react";
